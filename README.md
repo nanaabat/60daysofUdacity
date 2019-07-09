@@ -5,11 +5,11 @@
 
 |    Data    | Day Of Challenge | Activities                                                         | Links                                                                                                                |
 | :--------: | :--------------: | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
-| 2019-07-08 |        1         | Took the challenge pledge                                          | (https://github.com/nanaaprewa/60daysofUdacity/blob/master/Resources/Screen%20Shot%202019-07-09%20at%2011.56.15.png) |
+| 2019-07-08 |        5         | Took the challenge pledge - Re-edited responses                                       | (https://github.com/nanaaprewa/60daysofUdacity/blob/master/Resources/Screen%20Shot%202019-07-09%20at%2011.56.15.png) |
 |            |                  | Watched Video 1 of Lesson 6 : Intro To Differential Privacy        | Notes: https://github.com/nanaaprewa/60daysofUdacity/commit/526b74755dbed49a35e2e9104a67c7ba6eea0326                 |
 |            |                  | Updated my Medium essay on Local and Differential Privacy of a f() | https://medium.com/p/1edd696755fb/edit                                                                               |
 |            |                  | Participated in the Memorable Memory Challenge                     |https://secureprivataischolar.slack.com/archives/CJPF5UBU4/p1562611539077000?thread_ts=1562565965.010500&cid=CJPF5UBU4                                            |  
-| 2019-07-09 |        2         | Watch Video 2 and 3 of Lesson 6                                    |
+| 2019-07-09 |        6         | Watch Video 2 and 3 of Lesson 6                                    |
 |            |                  |                                                                    |                                                                                                                      |
 
 ## Connect With Me
