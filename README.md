@@ -9,8 +9,17 @@
 |            |                  | Watched Video 1 of Lesson 6 : Intro To Differential Privacy        | Notes: https://github.com/nanaaprewa/60daysofUdacity/commit/526b74755dbed49a35e2e9104a67c7ba6eea0326                 |
 |            |                  | Updated my Medium essay on Local and Differential Privacy of a f() | https://medium.com/p/1edd696755fb/edit                                                                               |
 |            |                  | Participated in the Memorable Memory Challenge                     |https://secureprivataischolar.slack.com/archives/CJPF5UBU4/p1562611539077000?thread_ts=1562565965.010500&cid=CJPF5UBU4                                            |  
-| 2019-07-09 |        6         | Watch Video 2 and 3 of Lesson 6                                    |
-|            |                  |                                                                    |                                                                                                                      |
+| 2019-07-09 |        6         | Watched Video 2 and 3 of Lesson 6                                    | Notes: https://github.com/nanaaprewa/60daysofUdacity/commit/526b74755dbed49a35e2e9104a67c7ba6eea0326
+|            |                  |Answered questions on the slack channel                                                                    | https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562687359006900  
+|            |                  |Controlled a pypot humanoid robot to move                                                                  |https://github.com/nanaaprewa/poppy-humanoid-robot-control
+|            |                  |                                                                    |
+| 2019-07-10 |        7         |Finished Lesson 6                                                   | 
+|            |                  |Answered Question on Slack page                                     |https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562720026015000
+|            |                  |Worked on my personal software application project                                            | 
+|            |                  |                                                                    | 
+|            |                  |                                                                    | 
+|            |                  |                                                                    | 
+|            |                  |                                                                    | |
 
 ## Connect With Me
 
