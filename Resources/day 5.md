@@ -52,3 +52,7 @@ Then you perform a DP query to generate a final true DP label for each datapoint
 Then you retrain the new model on your local dataset which now has DP labels
 ```
 
+# Generating Differentially Private Labels For a Dataset
+
+
+
