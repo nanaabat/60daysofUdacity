@@ -15,6 +15,7 @@
 |            |                  |                                                                    |
 | 2019-07-10 |        7         |Finished Lesson 6                                                   | 
 |            |                  |Answered Question on Slack page                                     |https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562720026015000
+https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562793583056500
 |            |                  |Worked on my personal software application project                                            | 
 |            |                  |                                                                    | 
 |            |                  |                                                                    | 
