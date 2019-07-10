@@ -32,7 +32,7 @@ There are times when you want to train a datasets, but there is not enough infor
 
 Let us take this scenario for example:
 
-Say you want to use data from the hospital to create a neural network but you do not have sufficient information because the dataset is not labelled. And so what you can do is 
+Say you want to use data from the hospital to create a neural network but you do not have sufficient information because the dataset is not labelled. What can you do? In order to train your new classifer, you can do so by train on their dataset in order to automatically label your own.
 
 ```base
 You can reach out to 10 other hospitals which do have annotated data. This will enable you train your new classifer on their datasets so that you can automatically label your own 
@@ -53,6 +53,8 @@ Then you retrain the new model on your local dataset which now has DP labels
 ```
 
 # Generating Differentially Private Labels For a Dataset
+
+Practical Explanation of How we can Add labels to our local unlabbeled datasets
 
 
 
