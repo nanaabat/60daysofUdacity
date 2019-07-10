@@ -15,7 +15,8 @@
 |            |                  |                                                                    |
 | 2019-07-10 |        7         |Finished Lesson 6                                                   | 
 |            |                  |Answered Question on Slack page                                     |https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562720026015000
-https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562793583056500
+|            |                  |                                                                    |https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562793583056500
+
 |            |                  |Worked on my personal software application project                                            | 
 |            |                  |                                                                    | 
 |            |                  |                                                                    | 
@@ -23,6 +24,7 @@ https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562793583056500
 |            |                  |                                                                    | |
 
 ## Connect With Me
+
 
 - [Over LinkedIn](https://www.linkedin.com/in/nana-aba-turkson/)
 - [Over Instagram](https://www.instagram.com/aba.codes/?igshid=q8b8bkl9upwg)
