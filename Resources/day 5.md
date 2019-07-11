@@ -1,3 +1,6 @@
+Local Differential Privacy(LDP) is as important as Global Differential Privacy(GDP) even though leaning towards GDP is easier to produce accurate results. But when it comes to the asking users sensitive questions(taboo behavior questions like when was the last time you jaywalked, or when was the last time you shoplifted or when was the last time you killed someone) in order to understand the whys of these behaviors, these users might not be as eager to give you the right answer due to the consequences involved if this info is leaked. In order to get your desired result, at the question-answer level(individual stage)you will need to rephrase questions in such a way that will make the respondents believe that they are not directly given you the desired answer( plausible deniability), and that is why you might need LDP.
+
+
 # Differential Privacy For Deep Learning
 
 Perfect Privacy - a query of database returns the same value even if we remove any person from the database 
