@@ -18,9 +18,9 @@
 |            |                  |                                                                    |
 |            |                  |Worked on my personal software application project                  | 
 |            |                  |                                                                    | 
+|2019-07-10  |         8        |                                                                    | 
 |            |                  |                                                                    | 
-|            |                  |                                                                    | 
-|            |                  |                                                                    | 
+|2019-07-11  |         9        |                                                                    | 
 
 ## Connect With Me
 
