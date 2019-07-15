@@ -19,9 +19,9 @@
 | 2019-07-10 |        7         |Finished Lesson 6                                                   | 
 |            |                  |Answered Question on Slack page                                     |https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562720026015000 https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562793583056500
 |            |                  |Worked on my personal software application project                  |  
-|2019-07-10  |         8        |Finished lesson 6
-Submitted my first article for the blogging challenge
-Working on the final project in Lesson 6                                                                    | https://secureprivataischolar.slack.com/archives/DL0DLLJ1Z/p1562864299001100
+|2019-07-10  |         8        |Finished lesson 6                                                   |                                                                  | https://secureprivataischolar.slack.com/archives/DL0DLLJ1Z/p1562864299001100
+|            |                  |Submitted my first article for the blogging challenge               |
+|            |                  |Working on the final project in Lesson 6                            |
 |2019-07-11  |         9        |Read some more on PATE analysis    | This link sort of make me have a better understanding of it https://arxiv.org/pdf/1610.05755.pdf
 |            |                  |Working on the final project on Lesson 6                                                                    | 
 |2019-07-12  |         10       |I worked all day trying to prep for a Java Developer interview coming up.
