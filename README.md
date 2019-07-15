@@ -6,16 +6,9 @@
 |    Data    | Day Of Challenge | Activities                                                         | Links                                                                                                                |
 | :--------: | :--------------: | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------- |
 |            |        1         |                                                                    | 
-|            |                  |                                                                    | 
-|            |                  |                                                                    | 
 |            |         2        |                                                                    | 
-|            |                  |                                                                    | 
-|            |                  |                                                                    | 
 |            |        3         |                                                                    | 
-|            |                  |                                                                    | 
-|            |                  |                                                                    | 
 |            |        4         |                                                                    | 
-|            |                  |                                                                    | 
 | 2019-07-08 |        5         | Took the challenge pledge - Re-edited responses                                       | (https://github.com/nanaaprewa/60daysofUdacity/blob/master/Resources/Screen%20Shot%202019-07-09%20at%2011.56.15.png) |
 |            |                  | Watched Video 1 of Lesson 6 : Intro To Differential Privacy        | Notes: https://github.com/nanaaprewa/60daysofUdacity/commit/526b74755dbed49a35e2e9104a67c7ba6eea0326                 |
 |            |                  | Updated my Medium essay on Local and Differential Privacy of a f() | https://medium.com/p/1edd696755fb/edit                                                                               |
@@ -23,7 +16,6 @@
 | 2019-07-09 |        6         | Watched Video 2 and 3 of Lesson 6                                    | Notes: https://github.com/nanaaprewa/60daysofUdacity/commit/526b74755dbed49a35e2e9104a67c7ba6eea0326
 |            |                  |Answered questions on the slack channel                                                                    | https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562687359006900  
 |            |                  |Controlled a pypot humanoid robot to move                                                                  |https://github.com/nanaaprewa/poppy-humanoid-robot-control
-|            |                  |                                                                    |
 | 2019-07-10 |        7         |Finished Lesson 6                                                   | 
 |            |                  |Answered Question on Slack page                                     |https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562720026015000 https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562793583056500
 |            |                  |Worked on my personal software application project                  |  
