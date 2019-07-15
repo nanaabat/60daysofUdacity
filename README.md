@@ -19,29 +19,29 @@
 | 2019-07-10 |        7         |Finished Lesson 6                                                   | 
 |            |                  |Answered Question on Slack page                                     |https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562720026015000 https://secureprivataischolar.slack.com/archives/CJCJJQ42W/p1562793583056500
 |            |                  |Worked on my personal software application project                  |  
-|2019-07-10  |         8        |Finished lesson 6                                                   |                                                                  | https://secureprivataischolar.slack.com/archives/DL0DLLJ1Z/p1562864299001100
+|2019-07-11  |         8        |Finished lesson 6                                                   |                                                                  | https://secureprivataischolar.slack.com/archives/DL0DLLJ1Z/p1562864299001100
 |            |                  |Submitted my first article for the blogging challenge               |
 |            |                  |Working on the final project in Lesson 6                            |
-|2019-07-11  |         9        |Read some more on PATE analysis    | This link sort of make me have a better understanding of it https://arxiv.org/pdf/1610.05755.pdf
+|2019-07-12  |         9        |Read some more on PATE analysis    | This link sort of make me have a better understanding of it https://arxiv.org/pdf/1610.05755.pdf
 |            |                  |Working on the final project on Lesson 6                                                                    | 
-|2019-07-12  |         10       |I worked all day trying to prep for a Java Developer interview coming up.
+|2019-07-13  |         10       |I worked all day trying to prep for a Java Developer interview coming up.
 |            |                  |Thanks to @ayivima for encouraging me yesterday                     |https://secureprivataischolar.slack.com/archives/DL8PTPR2T/p1563043254000400                                                                 
-|2019-07-13  |         11       |Today also happened to be the first of making Video Conference call meeting other Ghanaians  |                                                              
-|2019-07-14  |         12       |                                                                    | 
-|2019-07-15  |         13       |                                                                    | 
-|2019-07-16  |         14       |                                                                    | 
-|2019-07-17  |         15       |                                                                    | 
-|2019-07-18  |         16       |                                                                    | 
-|2019-07-19  |         17       |                                                                    | 
-|2019-07-20  |       18         |                                                                    | 
-|2019-07-21  |       19         |                                                                    | 
-|2019-07-22  |       20         |                                                                    | 
-|2019-07-23  |      21          |                                                                    |
-|2019-07-24  |       22         |                                                                    | 
-|2019-07-25  |      23          |                                                                    | 
-|2019-07-26  |        24        |                                                                    | 
-|2019-07-27  |       25         |                                                                    | 
-|2019-07-28  |       26         |                                                                    | 
+|2019-07-14  |         11       |Today also happened to be the first of making Video Conference call meeting other Ghanaians  |                                                              
+|2019-07-15  |         12       |                                                                    | 
+|2019-07-16  |         13       |                                                                    | 
+|2019-07-17  |         14       |                                                                    | 
+|2019-07-18  |         15       |                                                                    | 
+|2019-07-19  |         16       |                                                                    | 
+|2019-07-20  |         17       |                                                                    | 
+|2019-07-21  |       18         |                                                                    | 
+|2019-07-22  |       19         |                                                                    | 
+|2019-07-23  |       20         |                                                                    | 
+|2019-07-24  |      21          |                                                                    |
+|2019-07-25  |       22         |                                                                    | 
+|2019-07-26  |      23          |                                                                    | 
+|2019-07-27  |        24        |                                                                    | 
+|2019-07-28  |       25         |                                                                    | 
+|2019-07-29  |       26         |                                                                    | 
 |2019-07-30  |       27         |                                                                    | 
 |2019-07-31  |       28         |                                                                    | 
 |2019-08-01  |       29         |                                                                    | 
