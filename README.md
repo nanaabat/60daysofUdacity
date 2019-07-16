@@ -27,7 +27,7 @@
 |2019-07-13  |         10       |I worked all day trying to prep for a Java Developer interview coming up.
 |            |                  |Thanks to @ayivima for encouraging me yesterday                     |https://secureprivataischolar.slack.com/archives/DL8PTPR2T/p1563043254000400                                                                 
 |2019-07-14  |         11       |Today also happened to be the first of making Video Conference call meeting other Ghanaians  |                                                              
-|2019-07-15  |         12       |                                                                    | 
+|2019-07-15  |         12       |Practised on Java using hakerrank, worked on resume and reached out to recruiters                                                                     | 
 |2019-07-16  |         13       |                                                                    | 
 |2019-07-17  |         14       |                                                                    | 
 |2019-07-18  |         15       |                                                                    | 
