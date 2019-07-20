@@ -28,13 +28,13 @@
 |            |                  |Thanks to @ayivima for encouraging me yesterday                     |https://secureprivataischolar.slack.com/archives/DL8PTPR2T/p1563043254000400                                                                 
 |2019-07-14  |         11       |Today also happened to be the first of making Video Conference call meeting other Ghanaians  |                                                              
 |2019-07-15  |         12       |Practised on Java using hakerrank, worked on resume and reached out to recruiters                                                                     | 
-|2019-07-16  |         13       |                                                                    | 
-|2019-07-17  |         14       |                                                                    | 
-|2019-07-18  |         15       |                                                                    | 
-|2019-07-19  |         16       |                                                                    | 
-|2019-07-20  |         17       |                                                                    | 
-|2019-07-21  |       18         |                                                                    | 
-|2019-07-22  |       19         |                                                                    | 
+|2019-07-16  |         13       |Practised on Java using hakerrank, worked on resume and reached out to recruiters                                                                    | 
+|2019-07-17  |         14       |Practised on Java using hakerrank, worked on resume and reached out to recruiters                                                                    | 
+|2019-07-18  |         15       |Practised on Java using hakerrank, worked on resume and reached out to recruiters                                                                    | 
+|2019-07-19  |         16       |Practised on Java using hakerrank, worked on resume and reached out to recruiters                                                                    | 
+|2019-07-20  |         17       |Practised on Java using hakerrank, worked on resume and reached out to recruiters                                                                    | 
+|2019-07-21  |       18         |Practised on Java using hakerrank, worked on resume and reached out to recruiters                                                                    | 
+|2019-07-22  |       19         |Practised on Java using hakerrank, worked on resume and reached out to recruiters                                                                    | 
 |2019-07-23  |       20         |                                                                    | 
 |2019-07-24  |      21          |                                                                    |
 |2019-07-25  |       22         |                                                                    | 
