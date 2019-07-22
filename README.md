@@ -34,7 +34,7 @@
 |2019-07-19  |         16       |Practised on Java using hakerrank, worked on resume and reached out to recruiters                                                                    | 
 |2019-07-20  |         17       |Practised on Java using hakerrank, worked on resume and reached out to recruiters                                                                    | 
 |2019-07-21  |       18         |Practised on Java using hakerrank, worked on resume and reached out to recruiters                                                                    | 
-|2019-07-22  |       19         |Practised on Java using hakerrank, worked on resume and reached out to recruiters                                                                    | 
+|2019-07-22  |       19         |Practised on Java using hakerrank, worked on resume and reached out to recruiters, Posted article on the slack page| 
 |2019-07-23  |       20         |                                                                    | 
 |2019-07-24  |      21          |                                                                    |
 |2019-07-25  |       22         |                                                                    | 
